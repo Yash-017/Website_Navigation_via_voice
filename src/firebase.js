@@ -3,7 +3,7 @@ import firebase from "firebase/app";
 import 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBkvVNaOc3RwZaaCw6WZHWHXq9kXMDYi5k",
+    apiKey: "Your api key",
     authDomain: "nlpwebnav.firebaseapp.com",
     projectId: "nlpwebnav",
     storageBucket: "nlpwebnav.appspot.com",
